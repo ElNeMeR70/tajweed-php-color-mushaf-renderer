@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/tajweed-php-color-mushaf-renderer",
+  "description": "Automated Color-Coded Tajweed Mushaf ANSI/SVG Annotator (ملون مصحف التجويد الآلي حسب القواعد التجويدية)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
